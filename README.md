@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Jason  👋
+
+- 🎓 I’m currently a graduate studnt at National Chengchi University
+- 📊 I’m currently learning Data Science and Natural Language Processing
 
 <!--
 **JasonYeh0111/JasonYeh0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
